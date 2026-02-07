@@ -1,6 +1,8 @@
 # Superpowers: Developing for Claude Code
 
-A Claude Code plugin providing skills and comprehensive documentation for building plugins, skills, MCP servers, and other Claude Code extensions.
+Skills and documentation for building Claude Code plugins, skills, MCP servers, and extensions.
+
+> Maintained fork of [obra/superpowers-developing-for-claude-code](https://github.com/obra/superpowers-developing-for-claude-code) by [@cameronsjo](https://github.com/cameronsjo).
 
 ## Features
 
@@ -99,12 +101,9 @@ Skills to consider adding:
 
 ## License
 
-MIT License - See LICENSE file
+MIT License - See LICENSE file.
 
-## Author
+## Support
 
-Jesse Vincent <jesse@fsck.com>
-
-## Repository
-
-https://github.com/obra/superpowers-developing-for-claude-code
+- **Issues**: https://github.com/cameronsjo/superpowers-developing-for-claude-code/issues
+- **Upstream**: https://github.com/obra/superpowers-developing-for-claude-code
